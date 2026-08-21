@@ -8,7 +8,6 @@ I'm a Bachelor of Science in Information Technology (BSIT) student majoring in *
 * 🎓 **Studying:** IT Network Systems at MSU-IIT
 * 💻 **Focus Areas:** Cisco Network Configuration, Cybersecurity, Python Development, and Machine Learning
 * 🛠️ **Currently building:** Applications that bridge the gap between network performance and real-world utility
-* 📫 **How to reach me:** [www.linkedin.com/in/paul-bantilan-252137319]
 
 ---
 
