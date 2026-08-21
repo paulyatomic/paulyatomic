@@ -21,8 +21,3 @@ I'm a Bachelor of Science in Information Technology (BSIT) student majoring in *
 | **Concepts** | Cryptography (Vigenère, ROT-18), Mathematical Algorithms (Miller-Rabin), Data Pipelines |
 
 ---
-
-<p align="center">
-  <!-- You can add GitHub stats cards here later if you want! -->
-  <i>"Always eager to learn, troubleshoot, and optimize."</i>
-</p>
