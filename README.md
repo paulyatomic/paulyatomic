@@ -1,5 +1,5 @@
 
-# Hi there, I'm Paul P. Bantilan 👋
+# Hi there
 
 I'm a Bachelor of Science in Information Technology (BSIT) student majoring in **Network Systems** at Mindanao State University - Iligan Institute of Technology (MSU-IIT). I am passionate about building secure, optimized networks, creating utility-driven software, and exploring data analysis through machine learning.
 
